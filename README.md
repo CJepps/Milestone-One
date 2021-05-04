@@ -1,45 +1,64 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# DJ LOM Website
 
-Welcome USER_NAME,
+In this project I will create a website to promote my Djing. I will centralise my mixes that are currently hosted on several external sites (Youtube, Mixcloud). I will also promote my original music here as well as providing a booking form for potential clients to book me. Essentially, my experience is that a lot of people ask me at events who I am but few book me afterwards. My idea is to be able to give them a business card with a QR code linking to this website which should provide more customers and fans of my mixes and music. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+The website will be built responsively so that it looks great on all devices and accessible by all types of customer. I'm am building this webpage firstly to be optimised on mobile phones. It is my belief that this is the most likely format potenial customers and fans will view my website.   
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+## UX
+---
 
-A blue button should appear to click: *Make Public*,
+### Project Goals
 
-Another blue button should appear to click: *Open Browser*.
+The Primary goal for this project is to enable potenial clients to book me as a DJ to play at their Venue.
+The website will be visually appealing and showcase my work in order for potenial customers/ fans to know more about me and my work.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### User Stories
 
-A blue button should appear to click: *Make Public*,
+As a potential client I want:
+-	The ability to quickly access the booking/ contact form to hire the DJ for an event 
+-	A section I can find out more about the DJ if I am not completely familiar with the DJ
+-	Examples of the DJs work to understand if the DJ is right for my venue
 
-Another blue button should appear to click: *Open Browser*.
+As a fan/ potential fan of the DJ I want:
+-	An easy way to find out more about the DJ
+-	To Listen to more of the DJs music 
+-	To be provided with links to access the Djs social media, youtube channel, bandcamp to buy the Djs music 
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
+### Design Choices
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+I have made the decision to create a single scrollable page as opposed to separate pages linked by a nav bar.
+This is because there is not too much content to be displayed on one page and i feel this will aid in discovering other sections (mixes, buying music)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+ The first section a user will see will be a hero image of myself with my DJ name visable. Here there will be a simple Navigation bar so that different types of user can find the most appropriate section for them quickly. The most important section on the page will be an about me. I will place this section directly below the main hero image so that customers who might be unfamiliar with me can find out more. This should lead to an increased chance of them scrolling to further sections.  
+### Wireframes
+Insert balsamic wireframes showing website responsiveness on mobile, tablet, and desktop
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+## Features
+---
+### Existing Features
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+### Features left to implement 
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+## Technologies Used
+---
+* HTML
+* CSS 
+* Bootstrap
+* Font awesome
+* Google fonts 
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Testing
+---
 
---------
+## Deployment
+---
 
-Happy coding!
+## Credits
+---
+
+CI video on writing a readme for this readme layout 
