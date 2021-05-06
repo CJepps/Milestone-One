@@ -36,7 +36,8 @@ This is because there is not too much content to be displayed on one page and i 
 
  The first section a user will see will be a hero image of myself with my DJ name visable. Here there will be a simple Navigation bar so that different types of user can find the most appropriate section for them quickly. The most important section on the page will be an about me. I will place this section directly below the main hero image so that customers who might be unfamiliar with me can find out more. This should lead to an increased chance of them scrolling to further sections.  
 ### Wireframes
-Insert balsamic wireframes showing website responsiveness on mobile, tablet, and desktop
+[mobile resolution wireframe](/workspace/Milestone-One/assets/images/Wireframes/DJ LOM mobile wireframes.bmpr)
+
 
 ## Features
 ---

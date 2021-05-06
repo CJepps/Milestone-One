@@ -1,2 +1,57 @@
+/* General page styles */
 
 
+
+p {
+     font-family:'Roboto', serif ;
+     color: white;
+}
+
+a {
+    color: white;
+}
+
+body, html {
+    background-color: black;
+    height: 600px;
+}
+
+h2, h3 {
+    color: white;
+    font-family: 'Audiowide', serif;
+}
+
+header {
+    margin: 0;
+    height: 600px;
+    
+}
+
+
+
+/* hero image and nav bar styles */
+
+.logo {
+    font-family: 'Audiowide', serif;
+    color: white;
+}
+
+.opening_page {
+    background-image: url("../images/Hero_image.jpg"); 
+    background-color:black; 
+    min-height: 100% ; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+/* about me styles */
+.profile_image {
+    filter: grayscale(100%);
+}
+
+/* mixes styles */
+
+/* bookings styles */
+
+/*footer styles */
