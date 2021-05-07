@@ -15,7 +15,7 @@
     <header class="container-fluid">
         <div class="opening_page">
             <div class="row">
-                <div class="col-md-4 logo">
+                <div class=" col-6 logo">
                     <h1>DJ LOM</h1>
 
                 </div>
@@ -41,18 +41,20 @@
     </header>
     
 
-    <section>
-        <div>
-            <h2 id="about_me">About me</h2>
+    <section> <!--Stacked to horizontal bootstrap grid adapted from https://www.w3schools.com/bootstrap/bootstrap_grid_stacked_to_horizontal.asp-->
+        <div class="container">
+          <h2 id="about_me">About me</h2>
+        
+          <div class="row">
+            <div class="col-sm-6">     
+               <img id="profile_image" src="assets/images/DJ profile icon.jpg" alt="a profile picture of my handsome face"> 
+            </div>
+            <div class="col-sm-6">        
+                <p>Hey there! I'm Callum (LOM) and i love playing music to people. I Particularly enjoy Drum and Bass / House / disco and would love to share my taste with you!</p>
+            </div>
+          </div>
         </div>
-        <div class="profile_image">
-            <img src="assets/images/DJ profile icon.jpg" alt="a profile picture of my handsome face">
-        </div>
-        <div>
-            <p>Hey there! I'm Callum (LOM) and i love playing music to people. I Particularly enjoy Drum and Bass / House / disco and would love to share my taste with you!<br>
-                
-            </p>
-        </div>
+        
          
     </section>
     <section>
@@ -79,7 +81,7 @@
         <div>
             <h2 id="bookings">Bookings</h2>
         </div>
-        <form>
+        <form>  <!------------------------------------------Code example for bookings section was altered from bootstrap documentation https://getbootstrap.com/docs/4.0/components/forms/ -->
             <div class="form-group">
                 <label for="formName">Name</label>
                 <input type="text" class="form-control" id="form-name">
@@ -90,6 +92,10 @@
                 <input type="email" class="form-control" id="form-email">
             </div>
             <div class="form-group">
+                <label for="formPhonenumber">Contact Number</label>
+                <input type="number" class="form-control" id="form-phonenumber">
+            </div>
+            <div class="form-group">
                 <label for="formEnquiry">Enter your enquiry here</label>
                 <textarea class="form-control" id="form-Enquiry" rows="4"></textarea>
             </div>
@@ -97,14 +103,14 @@
     </section>
     <footer class="container">
         <div class="row">
-            <div class="col-sm-4 footer-icon">
-                <i class="fab fa-facebook fa-3x"><a href="https://www.facebook.com/DJKables/" target="_blank"></a></i>
+            <div class="col-4 footer-icon">
+                <a href="https://www.facebook.com/DJKables/" target="_blank"><i class="fab fa-facebook fa-3x"></i></a>
             </div>
-            <div class="col-sm-4 footer-icon">
-                <i class="fab fa-bandcamp fa-3x"><a href="https://bandcamp.com/cjepps" target="_blank"></a></i>
+            <div class="col-4 footer-icon">
+                <a href="https://bandcamp.com/cjepps" target="_blank"><i class="fab fa-bandcamp fa-3x"></i></a>
             </div>
-            <div class="col-sm-4 footer-icon">
-                <i class="fab fa-youtube fa-3x"><a href="https://www.youtube.com/channel/UCQs6nzF1zFPrbcLiWsx9Urg" target="_blank"></a></i>
+            <div class="col-4 footer-icon">
+                <a href="https://www.youtube.com/channel/UCQs6nzF1zFPrbcLiWsx9Urg" target="_blank"><i class="fab fa-youtube fa-3x"></i></a>
             </div>
         </div>
         

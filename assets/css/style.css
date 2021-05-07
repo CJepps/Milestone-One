@@ -21,14 +21,14 @@ h2, h3 {
     font-family: 'Audiowide', serif;
 }
 
-header {
+header, section {
     margin: 0;
-    height: 600px;
+    height: 95vh;
     
 }
 
 .container-fluid {
-    padding-left: 0;
+    padding-left: 0%;
 }
 
 
@@ -41,6 +41,7 @@ header {
 .logo {
     font-family: 'Audiowide', serif;
     color: white;
+    margin-left: 20px;
 }
 
 .opening_page {
@@ -53,10 +54,11 @@ header {
 }
 
 /* about me styles */
-.profile_image {
+#profile_image {
    filter: grayscale(100%);
-   width: 20%;
+   max-width:100% ;
    height: auto;
+   float: left;
     
 
 }
