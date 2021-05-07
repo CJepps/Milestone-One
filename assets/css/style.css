@@ -27,6 +27,13 @@ header {
     
 }
 
+.container-fluid {
+    padding-left: 0;
+}
+
+
+
+
 
 
 /* hero image and nav bar styles */
@@ -47,11 +54,24 @@ header {
 
 /* about me styles */
 .profile_image {
-    filter: grayscale(100%);
+   filter: grayscale(100%);
+   width: 20%;
+   height: auto;
+    
+
 }
 
 /* mixes styles */
 
 /* bookings styles */
 
+label {
+    color:white;
+}
+
 /*footer styles */
+.footer_icon {
+    text-align: center;
+    color: white;
+    
+}

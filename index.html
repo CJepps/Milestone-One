@@ -21,17 +21,17 @@
                 </div>
             </div>
 
-          <nav class="row">
+          <nav >
               <div class="col-md-8">
                 <ul id="navigation" class="list-inline">
                   <li class="col-6 col-sm-3 list-inline-item">
-                      <a href="#">Bookings |</a>
+                      <a href="#bookings">Bookings </a>
                   </li>
                   <li class="col-6 col-sm-3 list-inline-item">
-                      <a href="#">Mixes |</a>
+                      <a href="#mixes">Mixes </a>
                   </li>
                   <li class="col-6 col-sm-3 list-inline-item">
-                      <a href="#">About Me </a>
+                      <a href="#about_me">About Me </a>
                   </li>
                 </ul>
              </div>
@@ -43,7 +43,7 @@
 
     <section>
         <div>
-            <h2>About me</h2>
+            <h2 id="about_me">About me</h2>
         </div>
         <div class="profile_image">
             <img src="assets/images/DJ profile icon.jpg" alt="a profile picture of my handsome face">
@@ -57,7 +57,7 @@
     </section>
     <section>
         <div>
-            <h2>Mixes</h2>
+            <h2 id="mixes">Mixes</h2>
         </div>
         <div>
             <h3>Drum and Bass mix</h3>
@@ -76,10 +76,38 @@
 
     </section>
     <section>
-        booking form 
+        <div>
+            <h2 id="bookings">Bookings</h2>
+        </div>
+        <form>
+            <div class="form-group">
+                <label for="formName">Name</label>
+                <input type="text" class="form-control" id="form-name">
+
+            </div>
+            <div class="form-group">
+                <label for="formEmail">Email</label>
+                <input type="email" class="form-control" id="form-email">
+            </div>
+            <div class="form-group">
+                <label for="formEnquiry">Enter your enquiry here</label>
+                <textarea class="form-control" id="form-Enquiry" rows="4"></textarea>
+            </div>
+        </form>
     </section>
-    <footer>
-        social media info and links
+    <footer class="container">
+        <div class="row">
+            <div class="col-sm-4 footer-icon">
+                <i class="fab fa-facebook fa-3x"><a href="https://www.facebook.com/DJKables/" target="_blank"></a></i>
+            </div>
+            <div class="col-sm-4 footer-icon">
+                <i class="fab fa-bandcamp fa-3x"><a href="https://bandcamp.com/cjepps" target="_blank"></a></i>
+            </div>
+            <div class="col-sm-4 footer-icon">
+                <i class="fab fa-youtube fa-3x"><a href="https://www.youtube.com/channel/UCQs6nzF1zFPrbcLiWsx9Urg" target="_blank"></a></i>
+            </div>
+        </div>
+        
     </footer>
     
 </body>
