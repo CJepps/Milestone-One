@@ -13,7 +13,7 @@
 </head>
 <body>
     <header class="container-fluid">
-        <div class="opening_page">
+        <div class="opening_page" title="Opening cover image of myself DJing"> <!--Title added here to provide alt text for a background image that has been added through css styling rather than img tags-->
             <div class="row">
                 <div class=" col-6 logo">
                     <h1>DJ LOM</h1>
@@ -47,10 +47,11 @@
         
           <div class="row">
             <div class="col-sm-6">     
-               <img id="profile_image" src="assets/images/DJ profile icon.jpg" alt="a profile picture of my handsome face"> 
+               <img id="profile_image" src="assets/images/DJ-profile-icon.jpg" alt="a profile picture of my handsome face"> 
             </div>
-            <div class="col-sm-6">        
-                <p>Hey there! I'm Callum (LOM) and i love playing music to people. I Particularly enjoy Drum and Bass / House / disco and would love to share my taste with you!</p>
+            <div class="bio col-sm-6">        
+                <p>Hey there! I'm Callum (LOM) and i love playing music to people. I Particularly enjoy Drum and Bass / House / disco and would love to share my taste with you!<br><br>
+                My journey into Djing began when i was at University in Cardiff and has led me to playing at climbing competitions and club nights alike. If you'd like to check out some of my mixes, just keep on scrolling! </p>
             </div>
           </div>
         </div>
@@ -64,16 +65,16 @@
         <div>
             <h3>Drum and Bass mix</h3>
             <!-- all of the iframe elements code was taken from mixcloud's embed player feature https://help.mixcloud.com/hc/en-us/articles/360004031440-What-is-the-Mixcloud-widget-and-how-does-it-work--->
-            <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FtheCJfunk%2Fxxyx%2F" frameborder="0" ></iframe>
+            <iframe  height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FtheCJfunk%2Fxxyx%2F"></iframe>
         </div>
         <div>
             <h3>Something Heavier?</h3>
-            <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FtheCJfunk%2Flom-sun-bass-2017-dj-competition-entry%2F" frameborder="0" ></iframe>
+            <iframe  height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FtheCJfunk%2Flom-sun-bass-2017-dj-competition-entry%2F"></iframe>
 
         </div>
         <div>
             <h3>Something Funkier?</h3>
-            <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FtheCJfunk%2Fsoul-shaker%2F" frameborder="0" ></iframe>
+            <iframe  height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2FtheCJfunk%2Fsoul-shaker%2F"></iframe>
         </div>
 
     </section>
@@ -84,26 +85,27 @@
         <form>  <!------------------------------------------Code example for bookings section was altered from bootstrap documentation https://getbootstrap.com/docs/4.0/components/forms/ -->
             <div class="form-group">
                 <label for="formName">Name</label>
-                <input type="text" class="form-control" id="form-name">
+                <input type="text" class="form-control" id="formName">
 
             </div>
             <div class="form-group">
                 <label for="formEmail">Email</label>
-                <input type="email" class="form-control" id="form-email">
+                <input type="email" class="form-control" id="formEmail">
             </div>
             <div class="form-group">
                 <label for="formPhonenumber">Contact Number</label>
-                <input type="number" class="form-control" id="form-phonenumber">
+                <input type="number" class="form-control" id="formPhonenumber">
             </div>
             <div class="form-group">
                 <label for="formEnquiry">Enter your enquiry here</label>
-                <textarea class="form-control" id="form-Enquiry" rows="4"></textarea>
+                <textarea class="form-control" id="formEnquiry" rows="4"></textarea>
             </div>
+            <button type="submit" class="submit btn-primary">Submit</button>
         </form>
     </section>
     <footer class="container">
         <div class="row">
-            <div class="col-4 footer-icon">
+            <div class="col-4 footer-icon"> <!--------------------------------Icons for footer elements taken from fontawesome CDN https://fontawesome.com/icons?d=gallery&p=2-->
                 <a href="https://www.facebook.com/DJKables/" target="_blank"><i class="fab fa-facebook fa-3x"></i></a>
             </div>
             <div class="col-4 footer-icon">
