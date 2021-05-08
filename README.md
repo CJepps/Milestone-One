@@ -46,8 +46,29 @@ This is because there is not too much content to be displayed on one page and i 
 ## Features
 ---
 ### Existing Features
+### Navigation Bar and Hero image
+ * This section includes a device responsive Navigation bar which allows for users to immediately select the section they would like to navigate to appropriate to their needs.
+ * A Logo with my DJ name is clearly visible which confirms to a user that they have come to the correct website. A large hero image of myself DJing clearly shows what the website is about. 
 
+ ![Image of my opening page, displaying navigation bar and hero image with my logo](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=49e890d0-8b6e-4fdc-a22d-bf48acf2713e
+ )
+
+ ### About me section
+ * This section allows a user to find out more about me and the music i play. This is useful for users who may not be too familiar with my work.
+ * A profile picture is also added to acheive the same end, where useres may be unfamiliar with me.
+  
+ ![screenshot of about me section, displaying a profile pic and bio](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=23098d0a-b5c3-43af-9793-47a6189399fc)
+
+ ### Mixes section
+  * This section allows for users who are already a fan of my music to listen to more. Alternatively this provides users who are unfamiliar with me and example of my mixes. This section is particularly relevant to  venues who might be looking to book me.
+ ![screenshot of Mixes section which contains links to play examples of my DJ mixes](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=11fb85c1-9c05-43e4-a430-87b9e3d0d24d)
+
+ ### Bookings section and Footer
+  * This section provides users a means to get in contact with me. Either to find out more about me or to book me for an event.
+  * I've provided a footer so that users can easily access my facebook DJ profile, bandcamp, and Youtube channel which should enable me to increase my online visibility and obtain more customers.  
+ ![Screenshot of bookings section containing a contact form and my footer which has links to my social media and content platforms](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=4c620388-4e03-4f31-ba59-32dfe0041ff8)
 ### Features left to implement 
+ * Features i would like to implement in the future would be the addition of a gallery to show pictures from recent events and the capacity to buy my music directly from this website rather than bandcamp.
 
 ## Technologies Used
 ---
@@ -60,10 +81,25 @@ This is because there is not too much content to be displayed on one page and i 
 ## Testing
 ---
 
+### Validator Testing
+ * No errors were found when passing my HTML or CSS code through the respective W3C validators 
+
 ## Deployment
 ---
+### Deploying page to GitHub pages from repository
+ 1. Sign in to GitHub
+ 2. Select GitHub repository: CJepps/Milestone-One
+ 3. Select "Settings" from navigation bar
+ 4. select "Pages" from side bar
+ 5. In the "Source" box slect "Master Branch"
+ 6. Select "Save"
+ 7. navigate back to main repository page
+ 8. In the right hand column under environments, select "github-pages"
+ 9. deployment is available to view here.
 
 ## Credits
 ---
-
-CI video on writing a readme for this readme layout 
+### Larger dependencies included:
+ * [Googlefonts CDN](https://fonts.google.com/) 
+ * [Bootstrap documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+ * [Fontawesome Documentation](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
