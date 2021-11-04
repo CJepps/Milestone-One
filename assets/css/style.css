@@ -31,6 +31,10 @@ section {
     padding-left: 0%;
 }
 
+.grey-background {
+    background-color: #6c757d;
+}
+
 
 /* hero image and nav bar styles */
 
@@ -40,7 +44,7 @@ section {
     margin-left: 20px;
 }
 
-.opening_page {
+.heroimage {
     background-image: url("../images/Hero_image.jpg"); 
     background-color:black; 
     min-height: 100% ; 
