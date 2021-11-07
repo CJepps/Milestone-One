@@ -78,12 +78,24 @@ section {
     margin-bottom: 0;
     padding-top: 10px;
     padding-bottom: 10px;
+    min-height: 90%;
+    
 }
 /* mixes styles*/
 
 iframe {
     border: 0px; /*neccessary because html does not support the frameborder attribute that was initially applied to the iframe element */
-    width: 100%;
+    width: 95%;
+    padding: 20px;
+}
+
+#mix_section {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 90%;
+    
 }
 
 
