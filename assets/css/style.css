@@ -47,7 +47,7 @@ section {
 .heroimage {
     background-image: url("../images/Hero_image.jpg"); 
     background-color:black; 
-    min-height: 100% ; 
+    min-height: 90% ; 
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
@@ -71,6 +71,13 @@ section {
 
 .bio {
     font-family: 'Roboto';
+}
+
+#about_me {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 /* mixes styles*/
 
