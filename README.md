@@ -50,7 +50,7 @@ This is because there is not too much content to be displayed on one page and i 
  * This section includes a device responsive Navigation bar which allows for users to immediately select the section they would like to navigate to appropriate to their needs.
  * A Logo with my DJ name is clearly visible which confirms to a user that they have come to the correct website. A large hero image of myself DJing clearly shows what the website is about. 
 
- ![Image of my opening page, displaying navigation bar and hero image with my logo](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=49e890d0-8b6e-4fdc-a22d-bf48acf2713e
+ ![Image of my opening page, displaying navigation bar and hero image with my logo](assets/images/Screenshots/Screenshot-1.JPG
  )
 
  ### About me section

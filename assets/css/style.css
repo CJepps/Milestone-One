@@ -110,6 +110,23 @@ label {
     margin-left: 20px;
 }
 
+.booking-background {
+    background-image: url("../images/decks_background.png"); 
+    background-color:black; 
+    min-height: 90% ; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+    margin: 0;
+     
+}
+
+.form-area {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+
+}
+
 /*footer styles */
 .footer_icon {
     text-align: center;
