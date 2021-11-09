@@ -16,6 +16,7 @@ body, html {
 h2, h3 {
     color: white;
     font-family: 'Audiowide', serif;
+    margin-top: 10%;
 }
 
 header, section {
@@ -25,6 +26,7 @@ header, section {
 }
 section {
     margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 .container-fluid {
@@ -33,6 +35,11 @@ section {
 
 .grey-background {
     background-color: #6c757d;
+}
+
+nav {
+    display: block; 
+    padding-bottom:50px;
 }
 
 
