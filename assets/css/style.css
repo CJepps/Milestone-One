@@ -1,6 +1,6 @@
 /* General page styles */
 p {
-     font-family:'Roboto', serif ;
+     font-family:'Roboto', sans-serif ;
      color: white;
 }
 
@@ -15,7 +15,7 @@ body, html {
 
 h2, h3 {
     color: white;
-    font-family: 'Audiowide', serif;
+    font-family: 'Audiowide', sans-serif;
     margin-top: 10%;
 }
 

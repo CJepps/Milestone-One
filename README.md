@@ -34,7 +34,16 @@ This is because there is not too much content to be displayed on one page and i 
 
 
 
- The first section a user will see will be a hero image of myself with my DJ name visable. Here there will be a simple Navigation bar so that different types of user can find the most appropriate section for them quickly. The most important section on the page will be an about me. I will place this section directly below the main hero image so that customers who might be unfamiliar with me can find out more. This should lead to an increased chance of them scrolling to further sections.  
+ The first section a user will see will be a hero image of myself with my DJ name visable. Here there will be a simple Navigation bar so that different types of user can find the most appropriate section for them quickly. The most important section on the page will be an about me. I will place this section directly below the main hero image so that customers who might be unfamiliar with me can find out more. This should lead to an increased chance of them scrolling to further sections.
+
+ #### Colour scheme
+ - I have decided to go with a monochromatic colour scheme, utilizing some color to highlight important sections or buttons
+
+ #### Typography
+ - Roboto is used as the main font with sans-serif as the fallback incase this is not loaded correctly. I have also used Audiowide to style the logo and sub-headings on the page.
+ #### Imagery
+ - I have chosen to use a fullscreen hero image of myself djing to grab the attention of users. It is the first thing they see when entering the website and it immediately lets the user know that they are on a DJ page. In the about me section, i have chosen to include a profile image of myself to make the page more personal. In the book
+   
 ### Wireframes
 [Mobile resolution wireframe](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=a775fc80-dbcd-4b9a-a7c4-941d4f5601d5)
 
