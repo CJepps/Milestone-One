@@ -47,11 +47,11 @@ This is because there is not too much content to be displayed on one page and i 
  - I have chosen to use a fullscreen hero image of myself djing to grab the attention of users. It is the first thing they see when entering the website and it immediately lets the user know that they are on a DJ page. In the about me section, i have chosen to include a profile image of myself to make the page more personal. In the book
    
 ### Wireframes
-[Mobile resolution wireframe](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=a775fc80-dbcd-4b9a-a7c4-941d4f5601d5)
+[Mobile resolution wireframe](assets/images/wireframes/mobile-wireframe.pdf)
 
-[Tablet resolution wireframe](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=701467ea-daa4-49af-aa64-d760147224a6)
+[Tablet resolution wireframe](assets/images/wireframes/tablet-wireframe.pdf)
 
-[Desktop resolution wireframe](https://amber-slug-6bb9g0um.ws-eu03.gitpod.io/files/download/?id=e4125774-fdfd-40b1-a3d6-ce46b27b3e99) 
+[Desktop resolution wireframe](assets/images/wireframes/desktop-wireframe.pdf) 
 
 
 ## Features
