@@ -1,4 +1,6 @@
-# DJ LOM Website
+# [DJ LOM Website](https://cjepps.github.io/Milestone-One/)
+
+<img src="/workspace/Milestone-One/assets/images/Screenshots/djlom-responsive.PNG" alt="DJ LOM Home Page" width="800">
 
 In this project I will create a website to promote my Djing. I will centralise my mixes that are currently hosted on several external sites (Youtube, Mixcloud). I will also promote my original music here as well as providing a booking form for potential clients to book me. Essentially, my experience is that a lot of people ask me at events who I am but few book me afterwards. My idea is to be able to give them a business card with a QR code linking to this website which should provide more customers and fans of my mixes and music. 
 
@@ -81,11 +83,16 @@ This is because there is not too much content to be displayed on one page and i 
 
 ## Technologies Used
 ---
-* HTML
-* CSS 
+* HTML5
+* CSS3 
 * Bootstrap
 * Font awesome
-* Google fonts 
+* Google fonts
+* Git
+* GitHub
+* Balsamiq
+* jQuery 
+* [Googlefonts CDN](https://fonts.google.com/) 
 
 ## Testing
 ---
@@ -131,6 +138,6 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 ## Credits
 ---
 ### Larger dependencies included:
- * [Googlefonts CDN](https://fonts.google.com/) 
+ 
  * [Bootstrap documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
  * [Fontawesome Documentation](https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use)
