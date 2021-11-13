@@ -18,6 +18,10 @@ The website will be visually appealing and showcase my work in order for potenia
 
 ### User Stories
 
+As a user, I want:
+
+- to be able to view the site on my preferred device (mobile, tablet, desktop)
+
 As a potential client I want:
 -	The ability to quickly access the booking/ contact form to hire the DJ for an event 
 -	A section I can find out more about the DJ if I am not completely familiar with the DJ
