@@ -4,7 +4,7 @@
 
 In this project I will create a website to promote my Djing. I will centralise my mixes that are currently hosted on several external sites (Youtube, Mixcloud). I will also promote my original music here as well as providing a booking form for potential clients to book me. Essentially, my experience is that a lot of people ask me at events who I am but few book me afterwards. My idea is to be able to give them a business card with a QR code linking to this website which should provide more customers and fans of my mixes and music. 
 
-The website will be built responsively so that it looks great on all devices and accessible by all types of customer. I'm am building this webpage firstly to be optimised on mobile phones. It is my belief that this is the most likely format potenial customers and fans will view my website.   
+The website will be built responsively so that it looks great on all devices and accessible by all types of customer. I'm building this webpage firstly to be optimised on mobile phones. It is my belief that this is the most likely format potenial customers and fans will view my website.   
 
 
 
@@ -42,7 +42,7 @@ This is because there is not too much content to be displayed on one page and i 
  #### Typography
  - Roboto is used as the main font with sans-serif as the fallback in case this is not loaded correctly. I have also used Audiowide to style the logo and sub-headings on the page.
  #### Imagery
- - I have chosen to use a fullscreen hero image of myself djing to grab the attention of users. It is the first thing they see when entering the website and it immediately lets the user know that they are on a DJ page. In the about me section, i have chosen to include a profile image of myself to make the page more personal.
+ - I have chosen to use a fullscreen hero image of myself djing to grab the attention of users. It is the first thing they see when entering the website and it immediately lets the user know that they are on a DJs page. In the about me section, I have chosen to include a profile image of myself to make the page more personal.
 
  - In the bookings section i have chosen to use a colourful background image to highlight this section. This is one of the most important sections on the site as it should provide business to myself as a DJ. 
    
@@ -58,20 +58,20 @@ This is because there is not too much content to be displayed on one page and i 
 ---
 ### Existing Features
 ### Navigation Bar and Hero image
- * This section includes a device responsive Navigation bar which allows for users to immediately select the section they would like to navigate to appropriate to their needs.
+ * This section includes a device responsive Navigation bar which allows for users to immediately select the section they would like to navigate to, appropriate to their needs.
  * A Logo with my DJ name is clearly visible which confirms to a user that they have come to the correct website. A large hero image of myself DJing clearly shows what the website is about. 
 
  ![Image of my opening page, displaying navigation bar and hero image with my logo](assets/images/Screenshots/screenshot_1.PNG)
 
 
  ### About me section
- * This section allows a user to find out more about me and the music i play. This is useful for users who may not be too familiar with my work.
+ * This section allows a user to find out more about me and the music I play. This is useful for users who may not be too familiar with my work.
  * A profile picture is also added to acheive the same end, where useres may be unfamiliar with me.
   
  ![screenshot of about me section, displaying a profile pic and bio](assets/images/Screenshots/screenshot_2.PNG)
 
  ### Mixes section
-  * This section allows for users who are already a fan of my music to listen to more. Alternatively this provides users who are unfamiliar with me and example of my mixes. This section is particularly relevant to  venues who might be looking to book me.
+  * This section allows for users who are already a fan of my music to listen to more. Alternatively this provides users who are unfamiliar with me an example of my mixes. This section is particularly relevant to  venues who might be looking to book me.
  ![screenshot of Mixes section which contains links to play examples of my DJ mixes](assets/images/Screenshots/screenshot_3.PNG)
 
  ### Bookings section and Footer
@@ -79,7 +79,7 @@ This is because there is not too much content to be displayed on one page and i 
   * I've provided a footer so that users can easily access my facebook DJ profile, bandcamp, and Youtube channel which should enable me to increase my online visibility and obtain more customers.  
  ![Screenshot of bookings section containing a contact form and my footer which has links to my social media and content platforms](assets/images/Screenshots/screenshot_4.PNG)
 ### Features left to implement 
- * Features i would like to implement in the future would be the addition of a gallery to show pictures from recent events and the capacity to buy my music directly from this website rather than bandcamp.
+ * Features i would like to implement in the future would be the addition of a gallery to show pictures from recent events and the capacity to buy my music directly from this website rather than Bandcamp.
 
 ## Languages Used
 ---
