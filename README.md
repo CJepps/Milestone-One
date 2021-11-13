@@ -21,17 +21,11 @@ The website will be visually appealing and showcase my work in order for potenia
 As a user, I want:
 
 - to be able to view the site on my preferred device (mobile, tablet, desktop)
-
-As a potential client I want:
--	The ability to quickly access the booking/ contact form to hire the DJ for an event 
--	A section I can find out more about the DJ if I am not completely familiar with the DJ
--	Examples of the DJs work to understand if the DJ is right for my venue
-
-As a fan/ potential fan of the DJ I want:
--	An easy way to find out more about the DJ
--	To Listen to more of the DJs music 
--	To be provided with links to access the Djs social media, youtube channel, bandcamp to buy the Djs music 
-
+- to be given an easy way to navigate to the content i want to view.
+- to be easily able to contact the DJ with any request that I have.
+- to have an easy way to listen to and sample the mixes the DJ will play 
+- to be provided with information that tells me more about the DJ 
+- to find community links
 
 ### Design Choices
 
@@ -40,22 +34,24 @@ This is because there is not too much content to be displayed on one page and i 
 
 
 
- The first section a user will see will be a hero image of myself with my DJ name visable. Here there will be a simple Navigation bar so that different types of user can find the most appropriate section for them quickly. The most important section on the page will be an about me. I will place this section directly below the main hero image so that customers who might be unfamiliar with me can find out more. This should lead to an increased chance of them scrolling to further sections.
+ The first section a user will see will be a hero image of myself with my DJ name visible. Here there will be a simple Navigation bar so that different types of user can find the most appropriate section for them quickly. The most important section on the page will be an about me. I will place this section directly below the main hero image so that customers who might be unfamiliar with me can find out more. This should lead to an increased chance of them scrolling to further sections.
 
  #### Colour scheme
  - I have decided to go with a monochromatic colour scheme, utilizing some color to highlight important sections or buttons
 
  #### Typography
- - Roboto is used as the main font with sans-serif as the fallback incase this is not loaded correctly. I have also used Audiowide to style the logo and sub-headings on the page.
+ - Roboto is used as the main font with sans-serif as the fallback in case this is not loaded correctly. I have also used Audiowide to style the logo and sub-headings on the page.
  #### Imagery
- - I have chosen to use a fullscreen hero image of myself djing to grab the attention of users. It is the first thing they see when entering the website and it immediately lets the user know that they are on a DJ page. In the about me section, i have chosen to include a profile image of myself to make the page more personal. In the book
+ - I have chosen to use a fullscreen hero image of myself djing to grab the attention of users. It is the first thing they see when entering the website and it immediately lets the user know that they are on a DJ page. In the about me section, i have chosen to include a profile image of myself to make the page more personal.
+
+ - In the bookings section i have chosen to use a colourful background image to highlight this section. This is one of the most important sections on the site as it should provide business to myself as a DJ. 
    
 ### Wireframes
-[Mobile resolution wireframe](assets/images/wireframes/mobile-wireframe.pdf)
+- [Mobile resolution wireframe](assets/images/wireframes/mobile-wireframe.pdf)
 
-[Tablet resolution wireframe](assets/images/wireframes/tablet-wireframe.pdf)
+- [Tablet resolution wireframe](assets/images/wireframes/tablet-wireframe.pdf)
 
-[Desktop resolution wireframe](assets/images/wireframes/desktop-wireframe.pdf) 
+- [Desktop resolution wireframe](assets/images/wireframes/desktop-wireframe.pdf) 
 
 
 ## Features
@@ -104,7 +100,38 @@ This is because there is not too much content to be displayed on one page and i 
 ### Validator Testing
   No errors were found when passing my HTML or CSS code through the respective W3C validators
  - [HTML Validation](assets/images/Screenshots/djlom-html-validation.PNG)
- - [CSS Validation](assets/images/Screenshots/djlom-css-validation.PNG) 
+ - [CSS Validation](assets/images/Screenshots/djlom-css-validation.PNG)
+
+### Testing user stories from UX section
+---
+As a user i want to be able to view the site on my preferred device (mobile, tablet, desktop)
+
+- Manual testing was undertaken to ensure that each section of the page was viewed correctly at major resolutions
+
+As a user i want to be given an easy way to navigate to the content i want to view.
+
+- The page has been designed to include a nav bar with a fixed position that is viewable wherever you are on the page.
+
+- Users viewing the page on devices with smaller resolutions are presented with an expanding menu that provides bigger navigation links
+
+As a user i want to be easily able to contact the DJ with any request that I have.
+
+- Users are presented with a simple, clean booking form that enables them to enter their request with contact details to contact the DJ
+
+- Alternate link to social media accounts (Facebook) in footer provides an additional contact method.
+
+As a user i want to have an easy way to listen to and sample the mixes the DJ will play
+
+- Embedded media players supplied by Mixcloud iframes enable users to sample mixes without leaving the site.
+
+As a user i want to be provided with information that tells me more about the DJ
+
+- about me section provides a profile image of the DJ with a bio
+
+As a user i want to find community links
+
+- In the footer, links are provided to access the DJs pages on Mixcloud, Facebook, and Youtube.
+
 
 ## Deployment
 ---
