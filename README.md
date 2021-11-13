@@ -25,7 +25,7 @@ As a user, I want:
 - to be easily able to contact the DJ with any request that I have.
 - to have an easy way to listen to and sample the mixes the DJ will play 
 - to be provided with information that tells me more about the DJ 
-- to find community links
+- to find community links.
 
 ### Design Choices
 
@@ -81,18 +81,29 @@ This is because there is not too much content to be displayed on one page and i 
 ### Features left to implement 
  * Features i would like to implement in the future would be the addition of a gallery to show pictures from recent events and the capacity to buy my music directly from this website rather than bandcamp.
 
+## Languages Used
+---
+1. HTML5
+2. CSS3 
 ## Technologies Used
 ---
-* HTML5
-* CSS3 
-* Bootstrap
-* Font awesome
-* Google fonts
-* Git
-* GitHub
-* Balsamiq
-* jQuery 
-* [Googlefonts CDN](https://fonts.google.com/) 
+3. Bootstrap 4.4.1
+* Used the grid system to aid with the responsiveness of the website
+4. Font awesome
+* Used to provide icons for the website
+5. Git
+* used for version control
+6. GitHub
+* used to store pushed code in a repository
+7. Balsamiq
+* Used to create wireframes at the start of the project
+8. jQuery 
+* included with bootstrap. Allows for the collapsible navbar
+9. [Googlefonts CDN](https://fonts.google.com/) 
+* used to import 'Audiowide' and 'Roboto' fonts to style text
+10. [amiresponsive](http://ami.responsivedesign.is/)
+* used to create mockups of the website at different resolutions. 
+
 
 ## Testing
 ---
@@ -106,7 +117,7 @@ This is because there is not too much content to be displayed on one page and i 
 ---
 As a user I want to be able to view the site on my preferred device (mobile, tablet, desktop)
 
-- Manual testing was undertaken to ensure that each section of the page was viewed correctly at major resolutions
+- Manual testing was undertaken to ensure that each section of the page was viewed correctly at all standard device resolutions
 
 As a user I want to be given an easy way to navigate to the content i want to view.
 
