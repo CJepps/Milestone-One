@@ -104,33 +104,48 @@ This is because there is not too much content to be displayed on one page and i 
 
 ### Testing user stories from UX section
 ---
-As a user i want to be able to view the site on my preferred device (mobile, tablet, desktop)
+As a user I want to be able to view the site on my preferred device (mobile, tablet, desktop)
 
 - Manual testing was undertaken to ensure that each section of the page was viewed correctly at major resolutions
 
-As a user i want to be given an easy way to navigate to the content i want to view.
+As a user I want to be given an easy way to navigate to the content i want to view.
 
-- The page has been designed to include a nav bar with a fixed position that is viewable wherever you are on the page.
+- The page has been designed to include a navigation bar with a fixed position that is viewable wherever you are on the page. The links are clean and clear, with appropriate titles.
+![picture of navigation bar links](assets/images/Screenshots/test-links.PNG)
 
-- Users viewing the page on devices with smaller resolutions are presented with an expanding menu that provides bigger navigation links
+- Users viewing the page on devices with smaller resolutions are presented with an expanding menu that provides bigger navigation links to be clearer.
+![picture of navigation bar expanded links](assets/images/Screenshots/test-links-2.PNG)
 
-As a user i want to be easily able to contact the DJ with any request that I have.
+As a user I want to be easily able to contact the DJ with any request that I have.
 
 - Users are presented with a simple, clean booking form that enables them to enter their request with contact details to contact the DJ
+![picture of booking form](assets/images/Screenshots/test-booking.PNG)
 
 - Alternate link to social media accounts (Facebook) in footer provides an additional contact method.
+![picture of footer link to Facebook](assets/images/Screenshots/test-booking-2.PNG)
 
-As a user i want to have an easy way to listen to and sample the mixes the DJ will play
+
+As a user I want to have an easy way to listen to and sample the mixes the DJ will play
 
 - Embedded media players supplied by Mixcloud iframes enable users to sample mixes without leaving the site.
+![picture of mixcloud iframes](assets/images/Screenshots/test-mixes.PNG)
+
 
 As a user i want to be provided with information that tells me more about the DJ
 
-- about me section provides a profile image of the DJ with a bio
+- about me section provides a profile image of the DJ with a bio.
+![picture of about me section](assets/images/Screenshots/test-about.PNG)
 
 As a user i want to find community links
 
-- In the footer, links are provided to access the DJs pages on Mixcloud, Facebook, and Youtube.
+- In the footer, links are provided to access the DJs pages on Mixcloud, Facebook, and Youtube. These links were manually tested to ensure that they link to the website depicted on the icons.
+![picture of footer links](assets/images/Screenshots/test-footer.PNG)
+
+
+### Further Testing
+---
+- Website tested on iPhone 5SE, iPad, and Desktop
+- Website tested on Google Chrome, Safari, Microsoft Edge
 
 
 ## Deployment
@@ -164,7 +179,7 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 
 7. Press Enter. Your local clone will be created.
 
-
+*Deployment steps created with reference to the code institute sample readme (https://github.com/Code-Institute-Solutions/SampleREADME)*
 
 
 
