@@ -123,7 +123,7 @@ label {
 }
 
 .booking-background {
-    background-image: url("../images/decks_background.png"); 
+    background-image: url("../images/decks_background.png"); /* image purchased under licence from Shutterstock. */
     background-color:black; 
     min-height: 90% ; 
     background-position: center; 
