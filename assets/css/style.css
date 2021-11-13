@@ -57,7 +57,6 @@ nav {
 .heroimage {
     background-image: url("../images/Hero_image.jpg"); 
     background-color:black; 
-    min-height: 90% ; 
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover;
