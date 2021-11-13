@@ -102,7 +102,9 @@ This is because there is not too much content to be displayed on one page and i 
 ---
 
 ### Validator Testing
- * No errors were found when passing my HTML or CSS code through the respective W3C validators 
+  No errors were found when passing my HTML or CSS code through the respective W3C validators
+ - [HTML Validation](assets/images/Screenshots/djlom-html-validation.PNG)
+ - [CSS Validation](assets/images/Screenshots/djlom-css-validation.PNG) 
 
 ## Deployment
 ---
